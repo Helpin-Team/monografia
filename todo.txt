@@ -1,0 +1,74 @@
+RF -
+RNF .
+
+- registrar-se
+. inserir e-mail e senha
+. o email deve ser válido
+
+- realizar login
+. inserir e-mail senha
+. o email deve ser válido
+
+- listar cursos
+. os cursos devem ter cores distintas
+. a exibição deve ser em cartões
+
+- listar perguntas
+. exibir situação da pergunta (em aberto, fechado), 
+. exibir curso em que a pergunta se enquadra, data de publicação
+. exibir o título da pergunta em destaque
+
+- perguntar
+. inserir o título da dúvida
+. inserir a descrição da dúvida
+. adicionar uma imagem
+. salvar informações
+. exibir confirmação após salvar informações
+
+- responder pergunta
+. inserir resposta em texto
+. adicionar imagens
+. clicar em um botão para enviar
+
+- exibir detalhes da pergunta
+. exibir o título da pergunta em destaque
+. exibir imagens
+. exibir data de publicação
+. exibir um botão para responder a pergunta
+
+
+- exibir configurações
+. inserir nome, curso, número de whatsapp e skype
+. exibir um botão para salvar
+
+
+- editar configurações
+. ser possível todos os campos do RNF x(acima), incluindo email
+. exibir um botão para salvar
+
+- cadastrar conhecimentos
+. inserir um título
+. clicar em um botão para adicionar
+. exibir um botão para salvar altrações
+
+
+- remover conhecimentos
+. exibir um botão para remover conhecimentos na listagem
+. não solicitar confirmação para excluir
+
+- visualizar pessoas no chat
+. exibir o nome e o curso que a pessoa faz
+. exibir a situação (online ou offline) com cores vermelho ou azul
+. exibir um icone com as iniciais do nome da pessoa
+
+
+- enviar mensagem
+. inserir uma mensagem no campo
+. exibir uma legenda para o usuário escrever a mensagem no campo de entrada
+. exibir um botão para enviar mensagem
+. limpar campo de mensagem após enviá-la
+
+- receber mensagem
+. exibir mensagem no histórico da conversa de ambos os usuários
+. exibir status do destinatário
+. exibir icone com iniciais do nome de cada usuário
